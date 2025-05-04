@@ -2,7 +2,6 @@
 layout: page
 title: Catalog
 ---
-### Catalog<br><br>
 
 <!-- Posts Title List-->
 <ul>
