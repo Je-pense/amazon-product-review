@@ -26,7 +26,7 @@ Downside? The XM5 no longer folds into a compact shape. This affects portability
 
 ## Audio Quality: Clean, Balanced, and Natural
 
-![Sound Quality](https://m.media-amazon.com/images/I/61ZXwnLHD-L._AC_SL1500_.jpg)
+![Sound Quality](https://m.media-amazon.com/images/I/71rjNiSyEDL._AC_SL1500_.jpg)
 
 Sony replaced the XM4’s 40mm drivers with new 30mm carbon-fiber composite drivers, tuned for clarity and balance. And it pays off.
 
@@ -69,7 +69,7 @@ One small annoyance: touch controls can sometimes misread gestures in very cold 
 
 ## Battery Life: Consistently Strong
 
-![Battery Life](https://m.media-amazon.com/images/I/71UnE5AArZL._AC_SL1500_.jpg)
+![Battery Life](https://m.media-amazon.com/images/I/71joBKOGFBL._AC_SL1500_.jpg)
 
 Battery life on the WH-1000XM5 remains 30 hours with ANC on, and 40 hours without ANC — identical to the XM4, which is impressive given the increased performance demands.
 
