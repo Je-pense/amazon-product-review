@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony WH-1000XM5 Wireless Noise-Canceling Headphones Review: A Refined Listening Experience
+title: Sony WH-1000XM5 Wireless Noise-Canceling Headphones Review A Refined Listening Experience
 description: This in-depth review explores the Sony WH-1000XM5 Wireless Noise-Canceling Headphones, highlighting their redesigned aesthetics, superior sound quality, and cutting-edge noise cancellation technology. It covers key features like improved comfort, smart functionalities, battery life, and call clarity, while also noting trade-offs like reduced portability and a premium price tag. The article includes relevant images and concludes with a clear verdict on whether the XM5 is worth buying, especially for those upgrading from previous models.
 keywords:
   - Noise Cancellation
