@@ -16,7 +16,7 @@ But does this new design, coupled with smarter tech and better performance, warr
 
 ## Sleek New Design: Lightweight, But Less Compact
 
-![WH-1000XM5 Design](https://m.media-amazon.com/images/I/61u48FEsn9L._AC_SL1500_.jpg)
+![WH-1000XM5 Design](https://m.media-amazon.com/images/I/61oqO1AMbdL._AC_SL1500_.jpg)
 
 The first thing you’ll notice about the WH-1000XM5 is its completely revamped design. Sony ditches the collapsible form factor of the XM4 in favor of a minimalist, seamless frame. The result is a lighter (250g), more streamlined headset that feels futuristic and premium.
 
@@ -42,7 +42,7 @@ For audiophiles, LDAC support and DSEE Extreme upscaling mean you can enjoy high
 
 ## Noise Cancellation: The Best Just Got Better
 
-![Noise Cancellation](https://m.media-amazon.com/images/I/61g8NsdI38L._AC_SL1500_.jpg)
+![Noise Cancellation](https://m.media-amazon.com/images/I/71R4AzlTi+L._AC_SL1500_.jpg)
 
 Sony’s noise cancellation has been the industry benchmark — and the WH-1000XM5 somehow makes it even better.
 
@@ -54,7 +54,7 @@ Ambient Sound Mode also lets in external audio naturally when needed — ideal f
 
 ## Smart Features & Connectivity
 
-![Smart Features](https://m.media-amazon.com/images/I/61Z7+7ZgpoL._AC_SL1500_.jpg)
+![Smart Features](  https://m.media-amazon.com/images/I/81rVZu5JHUL._AC_SL1500_.jpg)
 
 Sony packs in plenty of smart features to make the user experience seamless:
 
@@ -69,7 +69,7 @@ One small annoyance: touch controls can sometimes misread gestures in very cold 
 
 ## Battery Life: Consistently Strong
 
-![Battery Life](https://m.media-amazon.com/images/I/61dQg1UxgEL._AC_SL1500_.jpg)
+![Battery Life](https://m.media-amazon.com/images/I/71UnE5AArZL._AC_SL1500_.jpg)
 
 Battery life on the WH-1000XM5 remains 30 hours with ANC on, and 40 hours without ANC — identical to the XM4, which is impressive given the increased performance demands.
 
@@ -83,7 +83,7 @@ In busy environments, some wind or traffic still bleeds through, but it’s a no
 
 ## Portability & Build Trade-Offs
 
-![Carrying Case](https://m.media-amazon.com/images/I/61FC94V5TUL._AC_SL1500_.jpg)
+![Carrying Case](https://m.media-amazon.com/images/I/71xsREqXS+L._AC_SL1500_.jpg)
 
 This is one area where Sony made a trade-off. The new design, while elegant and lightweight, comes at the cost of portability. Unlike the XM4, the XM5 cannot fold inward, and instead requires a larger molded carrying case.
 
