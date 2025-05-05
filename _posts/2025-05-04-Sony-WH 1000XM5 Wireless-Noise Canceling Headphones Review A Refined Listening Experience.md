@@ -9,7 +9,7 @@ keywords:
 ---
 # Sony WH-1000XM5 Wireless Noise-Canceling Headphones Review: A Refined Listening Experience
 
-![Sony WH-1000XM5](https://m.media-amazon.com/images/I/61v+d5F5maL._AC_SL1500_.jpg)
+![Sony WH-1000XM5](https://je-pense.github.io/public/images/2020-vancouver-snow.jpg)
 
 Sony’s WH-1000XM series has long dominated the premium headphone space. From industry-leading noise cancellation to plush comfort and refined sound, each iteration raised the bar. Now, with the release of the Sony WH-1000XM5, the company takes a bold step by completely redesigning its flagship headphones — both inside and out.
 
