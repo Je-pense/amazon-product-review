@@ -7,7 +7,6 @@ keywords:
   - Wireless Headphones
   - Sony WH-1000XM5
 ---
-# Sony WH-1000XM5 Wireless Noise-Canceling Headphones Review: A Refined Listening Experience
 
 ![Sony WH-1000XM5](https://je-pense.github.io/public/images/2020-vancouver-snow.jpg)
 
