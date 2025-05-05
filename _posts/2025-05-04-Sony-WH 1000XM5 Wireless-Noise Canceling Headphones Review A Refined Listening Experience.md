@@ -8,7 +8,7 @@ keywords:
   - Sony WH-1000XM5
 ---
 
-![Sony WH-1000XM5](https://je-pense.github.io/public/images/2020-vancouver-snow.jpg)
+![Sony WH-1000XM5](https://m.media-amazon.com/images/I/81UmmzjGcYL._AC_SL1500_.jpg)
 
 Sony’s WH-1000XM series has long dominated the premium headphone space. From industry-leading noise cancellation to plush comfort and refined sound, each iteration raised the bar. Now, with the release of the Sony WH-1000XM5, the company takes a bold step by completely redesigning its flagship headphones — both inside and out.
 
